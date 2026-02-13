@@ -1,0 +1,9 @@
+path: /home/kakani/waymo_project/2_yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: VEHICLE
+  1: PEDESTRIAN
+  2: SIGN
+  3: CYCLIST

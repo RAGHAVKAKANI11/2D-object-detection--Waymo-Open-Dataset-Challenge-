@@ -1,0 +1,18 @@
+# Large datasets (do NOT upload)
+1_data/
+2_yolo_dataset/images/
+2_yolo_dataset/labels/
+
+# Training outputs
+4_runs/
+runs/
+
+# Model weights
+*.pt
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# System
+.DS_Store
